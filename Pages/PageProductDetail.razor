@@ -1,9 +1,24 @@
-@page "/products/{index:int}/details"
+@page "/products/{id:int}/details"
+@using Entregable3.Data
 
 <PageTitle>Product Detail</PageTitle>
 
-<h1>Hello, world!</h1>
+<h1>Datos del producto: @product.id | @product.Code | @product.Name | @product.Price</h1>
 
-Welcome to your new app.
 
-<SurveyPrompt Title="How is Blazor working for you?" />
+@code{
+    [Parameter]
+    public int id { get; set;}
+
+    private Product product;
+
+
+    protected override void OnInitialized()
+    {
+        InMemoryProducts productsBD = new InMemoryProducts();
+        List<Product> products = productsBD.getProducts();
+
+        product = products[this.id-1];
+
+    }
+}

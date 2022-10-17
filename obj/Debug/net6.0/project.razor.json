@@ -111,72 +111,6 @@
         }
       },
       {
-        "HashCode": -746453664,
-        "Kind": "Components.Component",
-        "Name": "Entregable3.Pages.PageProductDetail",
-        "AssemblyName": "Entregable3",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "PageProductDetail"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Entregable3.Pages.PageProductDetail"
-        }
-      },
-      {
-        "HashCode": 489479124,
-        "Kind": "Components.Component",
-        "Name": "Entregable3.Pages.PageProductDetail",
-        "AssemblyName": "Entregable3",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Entregable3.Pages.PageProductDetail"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Entregable3.Pages.PageProductDetail",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1526752552,
-        "Kind": "Components.Component",
-        "Name": "Entregable3.Pages.PageProducts",
-        "AssemblyName": "Entregable3",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "PageProducts"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Entregable3.Pages.PageProducts"
-        }
-      },
-      {
-        "HashCode": 641607712,
-        "Kind": "Components.Component",
-        "Name": "Entregable3.Pages.PageProducts",
-        "AssemblyName": "Entregable3",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Entregable3.Pages.PageProducts"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Entregable3.Pages.PageProducts",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 1712787624,
         "Kind": "Components.Component",
         "Name": "Entregable3.Pages.PageWelcome",
@@ -239,6 +173,92 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "Entregable3.Pages.PageContact",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1574929012,
+        "Kind": "Components.Component",
+        "Name": "Entregable3.Pages.PageProductDetail",
+        "AssemblyName": "Entregable3",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "PageProductDetail"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "id",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Entregable3.Pages.PageProductDetail"
+        }
+      },
+      {
+        "HashCode": -1433174855,
+        "Kind": "Components.Component",
+        "Name": "Entregable3.Pages.PageProductDetail",
+        "AssemblyName": "Entregable3",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Entregable3.Pages.PageProductDetail"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "id",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Entregable3.Pages.PageProductDetail",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1526752552,
+        "Kind": "Components.Component",
+        "Name": "Entregable3.Pages.PageProducts",
+        "AssemblyName": "Entregable3",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "PageProducts"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Entregable3.Pages.PageProducts"
+        }
+      },
+      {
+        "HashCode": 641607712,
+        "Kind": "Components.Component",
+        "Name": "Entregable3.Pages.PageProducts",
+        "AssemblyName": "Entregable3",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Entregable3.Pages.PageProducts"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Entregable3.Pages.PageProducts",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
