@@ -32,11 +32,6 @@ Estaría la page y el componente hijo
 
 
 
-
-
-
-
-
 ####PageContact: 
 
 Crear un formulario con los siguientes campos:
