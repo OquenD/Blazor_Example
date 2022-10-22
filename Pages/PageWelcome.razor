@@ -2,10 +2,14 @@
 @using Entregable3.Components
 <PageTitle>Welcome</PageTitle>
 
-<WelcomeComponent name="Tienda la Campana"/>
+<WelcomeComponent name=@name/>
 
 
 <h2>Te ofrecemos los mejores productos al día
 Delivery Gratis </h2>
 
 
+
+@code{
+    private string name ="Tienda la Campana";
+}
